@@ -1,0 +1,6 @@
+name: Elevator
+version: ${project.version}
+main: com.github.dietcola.elevator.Elevator
+api-version: 1.13
+authors: [Diet_Cola]
+description: Teleport players vertically on elevator blocks
